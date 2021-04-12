@@ -1,3 +1,3 @@
 console.log('vscode testing')
-alert('JavaScript ( English : -wide JavaScript ) is an object based on a script programming language is. This language is mainly used within web browsers and has the ability to access built-in objects of other application programs. It is also used for server programming like a runtime environment such as Node.js. JavaScript original Netscape Communications Corp.'.length)
+alert('FIGHTING'.length)
 // 내가 알고싶은 문자열을 입력하고 ''창 내에 적고 .length 태그를 통해서 글자 수를 알아낼 수도 있다
