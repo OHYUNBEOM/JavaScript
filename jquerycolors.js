@@ -39,6 +39,6 @@ function nightdayhandler(self)
     Body.setBackgroundcolor('white');
     Body.setcolor('black');
     self.value = 'night';
-    Link.setcolor('purple');
+    Link.setcolor('blue');
     }
 }
